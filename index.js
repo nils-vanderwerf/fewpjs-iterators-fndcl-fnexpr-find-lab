@@ -69,5 +69,4 @@ function superbowlWin(record) {
         return undefined;
     }
 }
-
 superbowlWin(record);
